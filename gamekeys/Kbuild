@@ -1,0 +1,5 @@
+config INPUT_XM_GAMEKEY
+    tristate "XM Gamekey driver"
+    default m
+    help
+      XM_GAMEKEY side gaming triggers input driver.
